@@ -13,8 +13,11 @@ DO NOT USE THIS MENU
 
 if you would like a menu made for you to use please dm me on discord @fortnitedude#9042
 
-if you would like to locate the menu please go to Moonlight UI/ 
+if you would like to locate the menu please go to Moonlight UI/Moonlight GUI.exe
 
+! WARNING ! 
+
+this software may not allways work because it could be detected, patched or some files might be missing 
 
  
  
