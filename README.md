@@ -13,7 +13,7 @@ DO NOT USE THIS MENU
 
 if you would like a menu made for you to use please dm me on discord @fortnitedude#9042
 
-if you would like to locate the menu please go to 
+if you would like to locate the menu please go to Moonlight UI/ 
 
 
  
