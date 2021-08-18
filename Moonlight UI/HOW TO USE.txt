@@ -1,0 +1,19 @@
+MAKE SURE TO JOIN A SERVER AND THEN OPEN MOONLIGHT INJECTOR
+Click injection image on the injector and push inject.
+
+How To Use The Menu:
+Up arrow = up in menu
+Down arrow = down in menu
+Left arrow = disable option in menu
+Right arrow = enable option in menu / open menu catagories
+INS HIDES THE MENU AND BRINGS IT BACK UP
+
+Missing Dll Fix?
+Open injector and go to settings icon, click it
+Click the dll files link whats green, and install all the dlls in that folder
+to system32
+
+How to change AimKey?
+
+Click The aimbot icon on the left side on the injector pannel,
+Make sure to check only one box then push inject when ur fully loaded into a server
